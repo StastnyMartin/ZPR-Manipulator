@@ -1,9 +1,0 @@
-../Src/stm_usart.c:4:5:Usart2Send	2
-../Src/stm_usart.c:13:5:Usart2Recv	2
-../Src/stm_usart.c:20:6:IsUsart2Recv	1
-../Src/stm_usart.c:27:5:__io_putchar	1
-../Src/stm_usart.c:28:5:__io_getchar	1
-../Src/stm_usart.c:31:6:Usart2String	2
-../Src/stm_usart.c:40:6:Usart2Init	2
-../Src/stm_usart.c:64:6:Usart1Init	2
-../Src/stm_usart.c:88:5:Usart1Send	2

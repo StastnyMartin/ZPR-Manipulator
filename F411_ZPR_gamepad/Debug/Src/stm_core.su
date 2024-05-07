@@ -1,5 +1,0 @@
-../Src/stm_core.c:3:6:STM_SetPinGPIO	32	static
-../Src/stm_core.c:106:6:STM_SetAFGPIO	24	static
-../Src/stm_core.c:113:6:GPIOWrite	24	static
-../Src/stm_core.c:121:6:GPIOToggle	16	static
-../Src/stm_core.c:137:6:GPIORead	16	static
