@@ -1,0 +1,4 @@
+../Src/map_shield.c:5:6:Init8LED	2
+../Src/map_shield.c:23:6:Write8LED	1
+../Src/map_shield.c:29:6:InitSPILED	2
+../Src/map_shield.c:59:6:writeSPILED	3

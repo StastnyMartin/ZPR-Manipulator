@@ -1,0 +1,8 @@
+"./CMSIS/system_stm32f4xx.o"
+"./Src/main.o"
+"./Src/map_shield.o"
+"./Src/startup_stm32f411retx.o"
+"./Src/stm_core.o"
+"./Src/stm_usart.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"

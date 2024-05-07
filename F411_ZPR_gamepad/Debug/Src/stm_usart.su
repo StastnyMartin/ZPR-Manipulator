@@ -1,0 +1,9 @@
+../Src/stm_usart.c:4:5:Usart2Send	16	static
+../Src/stm_usart.c:13:5:Usart2Recv	4	static
+../Src/stm_usart.c:20:6:IsUsart2Recv	4	static
+../Src/stm_usart.c:27:5:__io_putchar	16	static
+../Src/stm_usart.c:28:5:__io_getchar	8	static
+../Src/stm_usart.c:31:6:Usart2String	16	static
+../Src/stm_usart.c:40:6:Usart2Init	16	static
+../Src/stm_usart.c:64:6:Usart1Init	16	static
+../Src/stm_usart.c:88:5:Usart1Send	16	static
